@@ -1,8 +1,8 @@
 {
   "static-marathon-pace": {
-    "access": "admin",
+    "access": "staff",
     "hidden": false,
-    "updatedAt": "2026-09-12T17:08:24.367Z"
+    "updatedAt": "2026-09-12T17:08:26.960Z"
   },
   "static-member-manager": {
     "access": "member",
