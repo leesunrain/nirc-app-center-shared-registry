@@ -26,18 +26,18 @@
     "updatedAt": "2026-09-12T11:04:45.182Z"
   },
   {
-    "id": "shared-mtymhbmx-4g3d7",
+    "id": "shared-mtymljfd-0j11l",
     "name": "기록예측",
-    "description": "5000m 기록으로 10k 하프 풀 기록예측",
+    "description": "5000m 기록으로 기록예측 앱",
     "icon": "🏃",
     "version": "v1",
-    "webUrl": "https://nirc-shared-mtymh142.vercel.app",
-    "zipUrl": "https://github.com/leesunrain/nirc-shared-mtymh142/archive/refs/heads/main.zip",
+    "webUrl": "https://nirc-shared-mtyml5x9.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mtyml5x9/archive/refs/heads/main.zip",
     "tag": "공용 앱",
     "access": "member",
     "hidden": false,
-    "repoName": "nirc-shared-mtymh142",
-    "appId": "oc_mtymh2h9_bax6meqsrm",
-    "updatedAt": "2026-09-12T16:51:47.625Z"
+    "repoName": "nirc-shared-mtyml5x9",
+    "appId": "oc_mtyml7qm_kfd046v1nu",
+    "updatedAt": "2026-09-12T16:55:04.345Z"
   }
 ]
