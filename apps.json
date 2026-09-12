@@ -26,18 +26,18 @@
     "updatedAt": "2026-09-12T11:04:45.182Z"
   },
   {
-    "id": "shared-mtymljfd-0j11l",
+    "id": "shared-mtymq73g-1a4ik",
     "name": "기록예측",
-    "description": "5000m 기록으로 기록예측 앱",
+    "description": "5000m 기록을 이용해서 기록예측",
     "icon": "🏃",
     "version": "v1",
-    "webUrl": "https://nirc-shared-mtyml5x9.vercel.app",
-    "zipUrl": "https://github.com/leesunrain/nirc-shared-mtyml5x9/archive/refs/heads/main.zip",
+    "webUrl": "https://nirc-shared-mtympwls.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mtympwls/archive/refs/heads/main.zip",
     "tag": "공용 앱",
     "access": "member",
     "hidden": false,
-    "repoName": "nirc-shared-mtyml5x9",
-    "appId": "oc_mtyml7qm_kfd046v1nu",
-    "updatedAt": "2026-09-12T16:55:04.345Z"
+    "repoName": "nirc-shared-mtympwls",
+    "appId": "oc_mtympy0h_uustibz3y",
+    "updatedAt": "2026-09-12T16:58:41.644Z"
   }
 ]
