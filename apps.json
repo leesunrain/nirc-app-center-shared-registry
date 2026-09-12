@@ -11,5 +11,18 @@
     "repoName": "nirc-shared-mty6hc3d",
     "appId": "oc_mty6hdea_pxtqwq5jk1",
     "updatedAt": "2026-09-12T09:24:08.352Z"
+  },
+  {
+    "id": "shared-mtya30xq-9m1ci",
+    "name": "26년 마라톤 대회 일정",
+    "description": "",
+    "icon": "🏃",
+    "version": "v1",
+    "webUrl": "https://nirc-shared-mtya2r77.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mtya2r77/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "repoName": "nirc-shared-mtya2r77",
+    "appId": "oc_mtya2tdo_84dmk7rbxl",
+    "updatedAt": "2026-09-12T11:04:45.182Z"
   }
 ]
