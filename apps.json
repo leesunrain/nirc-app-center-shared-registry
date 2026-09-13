@@ -39,5 +39,20 @@
     "repoName": "nirc-shared-mtympwls",
     "appId": "oc_mtympy0h_uustibz3y",
     "updatedAt": "2026-09-12T16:58:41.644Z"
+  },
+  {
+    "id": "shared-mu06gngn-gy0zz",
+    "name": "나주빛달 5000m tt 기록",
+    "description": "매월 수요일 5000m tt 결과를 기록",
+    "icon": "🏃",
+    "version": "v1",
+    "webUrl": "https://nirc-shared-mu06gek7.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mu06gek7/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "member",
+    "hidden": false,
+    "repoName": "nirc-shared-mu06gek7",
+    "appId": "oc_mu06gima_dds4obaiqr",
+    "updatedAt": "2026-09-13T18:58:54.791Z"
   }
 ]
