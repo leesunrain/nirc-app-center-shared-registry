@@ -32,5 +32,10 @@
     "access": "public",
     "hidden": false,
     "updatedAt": "2026-09-13T22:25:23.304Z"
+  },
+  "static-pace-lap": {
+    "access": "public",
+    "hidden": false,
+    "updatedAt": "2026-09-13T22:26:16.601Z"
   }
 }
