@@ -6,8 +6,10 @@
   },
   "static-member-manager": {
     "access": "member",
-    "hidden": false,
-    "updatedAt": "2026-09-13T22:25:32.594Z"
+    "hidden": true,
+    "updatedAt": "2026-09-13T22:25:37.768Z",
+    "deleted": true,
+    "deletedAt": "2026-09-13T22:25:37.768Z"
   },
   "__settings": {
     "appOrder": [
