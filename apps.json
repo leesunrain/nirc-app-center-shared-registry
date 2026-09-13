@@ -54,5 +54,20 @@
     "repoName": "nirc-shared-mu06gek7",
     "appId": "oc_mu06gima_dds4obaiqr",
     "updatedAt": "2026-09-13T18:58:54.791Z"
+  },
+  {
+    "id": "shared-mu07e0c9-jymmr",
+    "name": "나주빛달 회원명부",
+    "description": "",
+    "icon": "🏃",
+    "version": "v1",
+    "webUrl": "https://nirc-shared-mu07dsnf-lee-sun-woo-s-projects.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mu07dsnf/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "member",
+    "hidden": false,
+    "repoName": "nirc-shared-mu07dsnf",
+    "appId": "oc_mu07dwba_poi3rzhv57",
+    "updatedAt": "2026-09-13T19:24:51.129Z"
   }
 ]
