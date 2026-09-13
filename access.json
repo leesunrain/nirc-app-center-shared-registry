@@ -8,5 +8,19 @@
     "access": "member",
     "hidden": false,
     "updatedAt": "2026-09-12T11:22:14.342Z"
+  },
+  "__settings": {
+    "appOrder": [
+      "static-marathon-pace",
+      "static-temp",
+      "static-oneclick",
+      "static-sample",
+      "static-member-manager",
+      "static-pace-lap",
+      "shared-mty6hmw0-463xm",
+      "shared-mtya30xq-9m1ci",
+      "shared-mtymq73g-1a4ik"
+    ],
+    "orderUpdatedAt": "2026-09-13T18:45:48.115Z"
   }
 }
