@@ -13,8 +13,8 @@
     "appOrder": [
       "static-marathon-pace",
       "static-temp",
-      "static-oneclick",
       "static-member-manager",
+      "static-oneclick",
       "static-sample",
       "static-pace-lap",
       "shared-mty6hmw0-463xm",
@@ -22,6 +22,6 @@
       "shared-mtymq73g-1a4ik",
       "shared-mu06gngn-gy0zz"
     ],
-    "orderUpdatedAt": "2026-09-13T19:23:02.282Z"
+    "orderUpdatedAt": "2026-09-13T19:23:06.021Z"
   }
 }
