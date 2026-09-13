@@ -6,8 +6,8 @@
   },
   "static-member-manager": {
     "access": "member",
-    "hidden": false,
-    "updatedAt": "2026-09-12T11:22:14.342Z"
+    "hidden": true,
+    "updatedAt": "2026-09-13T19:58:58.826Z"
   },
   "__settings": {
     "appOrder": [
