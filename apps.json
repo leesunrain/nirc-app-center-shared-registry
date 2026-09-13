@@ -23,7 +23,9 @@
     "tag": "공용 앱",
     "repoName": "nirc-shared-mtya2r77",
     "appId": "oc_mtya2tdo_84dmk7rbxl",
-    "updatedAt": "2026-09-12T11:04:45.182Z"
+    "updatedAt": "2026-09-13T22:26:23.008Z",
+    "access": "public",
+    "hidden": false
   },
   {
     "id": "shared-mtymq73g-1a4ik",
