@@ -118,18 +118,18 @@
     "updatedAt": "2026-09-14T17:34:24.946Z"
   },
   {
-    "id": "shared-mu1jhfy5-umf3x",
+    "id": "shared-mu1jhjnc-lav95",
     "name": "풀대회전 잭다니엘스 훈련 앱",
     "description": "풀대회전 수요일 훈련 세션\n잭다니엘스 T세션",
     "icon": "🏃",
     "version": "v1",
-    "webUrl": "https://nirc-shared-mu1jh63n.vercel.app",
-    "zipUrl": "https://github.com/leesunrain/nirc-shared-mu1jh63n/archive/refs/heads/main.zip",
+    "webUrl": "https://nirc-shared-mu1jha9c.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mu1jha9c/archive/refs/heads/main.zip",
     "tag": "공용 앱",
     "access": "public",
     "hidden": false,
-    "repoName": "nirc-shared-mu1jh63n",
-    "appId": "oc_mu1jh9fq_t4ju7om5rz",
-    "updatedAt": "2026-09-14T17:51:12.893Z"
+    "repoName": "nirc-shared-mu1jha9c",
+    "appId": "oc_mu1jhddb_q5alckup39",
+    "updatedAt": "2026-09-14T17:51:17.688Z"
   }
 ]
