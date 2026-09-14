@@ -13,21 +13,6 @@
     "updatedAt": "2026-09-12T09:24:08.352Z"
   },
   {
-    "id": "shared-mtya30xq-9m1ci",
-    "name": "26년 마라톤 대회 일정",
-    "description": "",
-    "icon": "🏃",
-    "version": "v1",
-    "webUrl": "https://nirc-shared-mtya2r77.vercel.app",
-    "zipUrl": "https://github.com/leesunrain/nirc-shared-mtya2r77/archive/refs/heads/main.zip",
-    "tag": "공용 앱",
-    "repoName": "nirc-shared-mtya2r77",
-    "appId": "oc_mtya2tdo_84dmk7rbxl",
-    "updatedAt": "2026-09-13T22:26:23.008Z",
-    "access": "public",
-    "hidden": false
-  },
-  {
     "id": "shared-mtymq73g-1a4ik",
     "name": "기록예측",
     "description": "5000m 기록을 이용해서 기록예측",
@@ -131,5 +116,20 @@
     "repoName": "nirc-shared-mu1jha9c",
     "appId": "oc_mu1jhddb_q5alckup39",
     "updatedAt": "2026-09-14T17:58:32.559Z"
+  },
+  {
+    "id": "shared-mtya30xq-9m1ci",
+    "name": "26년 마라톤 대회 일정",
+    "description": "",
+    "icon": "🏃",
+    "version": "v2",
+    "webUrl": "https://nirc-shared-mtya2r77.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mtya2r77/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "public",
+    "hidden": false,
+    "repoName": "nirc-shared-mtya2r77",
+    "appId": "oc_mtya2tdo_84dmk7rbxl",
+    "updatedAt": "2026-09-14T18:20:03.799Z"
   }
 ]
