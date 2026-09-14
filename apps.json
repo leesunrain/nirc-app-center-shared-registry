@@ -131,5 +131,20 @@
     "repoName": "nirc-shared-mtya2r77",
     "appId": "oc_mtya2tdo_84dmk7rbxl",
     "updatedAt": "2026-09-14T18:20:03.799Z"
+  },
+  {
+    "id": "shared-mu1p1vg1-61m8m",
+    "name": "LT1 LT2 심박존 계산",
+    "description": "가민 데이터를 활용 본인의 LT1 LT2 심박존을 계산",
+    "icon": "🏃",
+    "version": "v1",
+    "webUrl": "https://nirc-shared-mu1p1ii5.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mu1p1ii5/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "public",
+    "hidden": false,
+    "repoName": "nirc-shared-mu1p1ii5",
+    "appId": "oc_mu1p1lo2_49i7185l1l",
+    "updatedAt": "2026-09-14T20:27:04.177Z"
   }
 ]
