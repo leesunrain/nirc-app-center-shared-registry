@@ -71,5 +71,20 @@
     "repoName": "nirc-shared-mu08e3ap",
     "appId": "oc_mu08e6wn_asztniu0qx",
     "updatedAt": "2026-09-14T08:14:33.762Z"
+  },
+  {
+    "id": "shared-mu1g4osq-fqfz8",
+    "name": "말 가계부",
+    "description": "말로적는 가계부",
+    "icon": "🏃",
+    "version": "v1",
+    "webUrl": "https://nirc-shared-mu1g4ggq-lee-sun-woo-s-projects.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mu1g4ggq/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "public",
+    "hidden": false,
+    "repoName": "nirc-shared-mu1g4ggq",
+    "appId": "oc_mu1g4jpa_pcwaco7ztw",
+    "updatedAt": "2026-09-14T16:17:18.986Z"
   }
 ]
