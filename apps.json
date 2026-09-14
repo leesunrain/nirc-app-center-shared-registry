@@ -141,10 +141,10 @@
     "webUrl": "https://nirc-shared-mu1p1ii5.vercel.app",
     "zipUrl": "https://github.com/leesunrain/nirc-shared-mu1p1ii5/archive/refs/heads/main.zip",
     "tag": "공용 앱",
-    "access": "public",
+    "access": "member",
     "hidden": false,
     "repoName": "nirc-shared-mu1p1ii5",
     "appId": "oc_mu1p1lo2_49i7185l1l",
-    "updatedAt": "2026-09-14T20:27:04.177Z"
+    "updatedAt": "2026-09-14T20:39:30.035Z"
   }
 ]
