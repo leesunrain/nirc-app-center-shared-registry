@@ -146,5 +146,20 @@
     "repoName": "nirc-shared-mu1p1ii5",
     "appId": "oc_mu1p1lo2_49i7185l1l",
     "updatedAt": "2026-09-14T20:39:30.035Z"
+  },
+  {
+    "id": "shared-mu3md7ru-ubgoz",
+    "name": "풀 마라톤예상기록 전용",
+    "description": "1000m 5k 10k 기록을 가지고 풀 마라톤 예상페이스 계산",
+    "icon": "🏃",
+    "version": "v1",
+    "webUrl": "https://nirc-shared-mu3mcylm.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mu3mcylm/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "public",
+    "hidden": false,
+    "repoName": "nirc-shared-mu3mcylm",
+    "appId": "oc_mu3md0jy_pb6q2j9d0e",
+    "updatedAt": "2026-09-16T04:47:26.874Z"
   }
 ]
