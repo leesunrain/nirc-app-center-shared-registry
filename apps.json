@@ -156,10 +156,10 @@
     "webUrl": "https://nirc-shared-mu3mcylm.vercel.app",
     "zipUrl": "https://github.com/leesunrain/nirc-shared-mu3mcylm/archive/refs/heads/main.zip",
     "tag": "공용 앱",
-    "access": "public",
+    "access": "member",
     "hidden": false,
     "repoName": "nirc-shared-mu3mcylm",
     "appId": "oc_mu3md0jy_pb6q2j9d0e",
-    "updatedAt": "2026-09-16T05:09:02.911Z"
+    "updatedAt": "2026-09-16T05:09:19.746Z"
   }
 ]
