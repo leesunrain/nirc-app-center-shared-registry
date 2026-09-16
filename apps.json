@@ -163,18 +163,18 @@
     "updatedAt": "2026-09-16T05:35:18.109Z"
   },
   {
-    "id": "shared-mu3q2lc2-zmfc5",
+    "id": "shared-mu3q2ohr-74mha",
     "name": "마라톤 훈련 페이스 계산기",
     "description": "개인별·조별 훈련 페이스와 환경 보정을 계산하는 앱",
     "icon": "🏃",
     "version": "v2",
-    "webUrl": "https://nirc-shared-mu3q2bkh.vercel.app",
-    "zipUrl": "https://github.com/leesunrain/nirc-shared-mu3q2bkh/archive/refs/heads/main.zip",
+    "webUrl": "https://nirc-shared-mu3q2d1g.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mu3q2d1g/archive/refs/heads/main.zip",
     "tag": "공용 앱",
     "access": "staff",
     "hidden": false,
-    "repoName": "nirc-shared-mu3q2bkh",
-    "appId": "oc_mu3q2dw1_8aj7a23wj1",
-    "updatedAt": "2026-09-16T06:31:09.698Z"
+    "repoName": "nirc-shared-mu3q2d1g",
+    "appId": "oc_mu3q2eny_klbmuv79l5",
+    "updatedAt": "2026-09-16T06:31:13.791Z"
   }
 ]
