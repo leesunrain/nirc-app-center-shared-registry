@@ -191,5 +191,20 @@
     "repoName": "nirc-shared-mu52cus3",
     "appId": "oc_mu52cyes_3n1bu29mbu",
     "updatedAt": "2026-09-17T06:04:58.506Z"
+  },
+  {
+    "id": "shared-mu59lfvt-e1t7n",
+    "name": "진주마라톤 참가자 전용 풀코스 페이스 작업 앱",
+    "description": "진주마라톤 참가자들의 풀코스 예쌍기록 및 풀코스 페이스를 자동으로 계싼해주는 앱임",
+    "icon": "🏃",
+    "version": "v1",
+    "webUrl": "https://nirc-shared-mu59l6ms.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mu59l6ms/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "member",
+    "hidden": false,
+    "repoName": "nirc-shared-mu59l6ms",
+    "appId": "oc_mu59laop_tpn2xrr0h2",
+    "updatedAt": "2026-09-17T08:25:27.978Z"
   }
 ]
