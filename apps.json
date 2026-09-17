@@ -182,7 +182,7 @@
     "name": "마라톤 훈련 스케줄 제작기",
     "description": "마라톤 훈련 스제물 짤수 있는 앱입니다\n풀 준비시 사용하시면 됩니다.",
     "icon": "🏃",
-    "version": "v1",
+    "version": "v2",
     "webUrl": "https://nirc-shared-mu52cus3.vercel.app",
     "zipUrl": "https://github.com/leesunrain/nirc-shared-mu52cus3/archive/refs/heads/main.zip",
     "tag": "공용 앱",
@@ -190,6 +190,6 @@
     "hidden": false,
     "repoName": "nirc-shared-mu52cus3",
     "appId": "oc_mu52cyes_3n1bu29mbu",
-    "updatedAt": "2026-09-17T05:03:03.149Z"
+    "updatedAt": "2026-09-17T05:50:43.628Z"
   }
 ]
