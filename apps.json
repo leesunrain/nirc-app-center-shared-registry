@@ -206,5 +206,20 @@
     "repoName": "nirc-shared-mu59l6ms",
     "appId": "oc_mu59laop_tpn2xrr0h2",
     "updatedAt": "2026-09-17T08:25:27.978Z"
+  },
+  {
+    "id": "shared-mu5aopfh-6ax4r",
+    "name": "원클릭 앱 배포기",
+    "description": "수정 ZIP을 기존 Vercel 프로젝트에 안전하게 업데이트해 주소를 유지",
+    "icon": "🚀",
+    "version": "v1.6.9",
+    "webUrl": "https://nirc-shared-mu5ao9mk.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mu5ao9mk/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "admin",
+    "hidden": false,
+    "repoName": "nirc-shared-mu5ao9mk",
+    "appId": "oc_mu5aodkn_e4fpbkl6g7",
+    "updatedAt": "2026-09-17T08:55:59.933Z"
   }
 ]
