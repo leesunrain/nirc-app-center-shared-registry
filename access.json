@@ -14,7 +14,6 @@
   "__settings": {
     "appOrder": [
       "static-temp",
-      "static-oneclick",
       "static-sample",
       "static-pace-lap",
       "shared-mty6hmw0-463xm",
@@ -29,10 +28,14 @@
       "shared-mu1p1vg1-61m8m",
       "shared-mu3q2ohr-74mha",
       "shared-mu3o2r8d-4vebf",
+      "shared-mu5aowhz-so0lc",
+      "shared-mu52d4vh-5tkea",
+      "shared-mu59lfvt-e1t7n",
+      "static-oneclick",
       "static-marathon-pace",
       "static-member-manager"
     ],
-    "orderUpdatedAt": "2026-09-16T10:26:44.752Z",
+    "orderUpdatedAt": "2026-09-19T12:40:49.629Z",
     "staffPasswordHash": "0de492c1f75d3030df61e285617b70f1494c0abc583e5ea850d62f01b5478dc4",
     "updatedAt": "2026-09-13T21:16:47.024Z"
   },
