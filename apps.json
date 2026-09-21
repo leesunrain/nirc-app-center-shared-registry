@@ -221,20 +221,5 @@
     "repoName": "nirc-shared-mu5aoczm",
     "appId": "oc_mu5aog61_h6eqagtvfq",
     "updatedAt": "2026-09-17T08:56:09.095Z"
-  },
-  {
-    "id": "shared-muapop31-3xn7k",
-    "name": "간편 심박수 예측",
-    "description": "가민 차트 입력하면 LT1 LT2 예측",
-    "icon": "🏃",
-    "version": "v2",
-    "webUrl": "https://nirc-shared-muapo4me-lee-sun-woo-s-projects.vercel.app",
-    "zipUrl": "https://github.com/leesunrain/nirc-shared-muapo4me/archive/refs/heads/main.zip",
-    "tag": "공용 앱",
-    "access": "public",
-    "hidden": false,
-    "repoName": "nirc-shared-muapo4me",
-    "appId": "oc_muapo8vh_hizhbh9h8c",
-    "updatedAt": "2026-09-21T04:18:54.810Z"
   }
 ]
