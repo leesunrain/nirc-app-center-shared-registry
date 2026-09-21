@@ -223,18 +223,18 @@
     "updatedAt": "2026-09-17T08:56:09.095Z"
   },
   {
-    "id": "shared-muap4qkj-18jjg",
+    "id": "shared-muap4sjo-og80c",
     "name": "간단 심박수 예측",
     "description": "가민 차트를 넣으면 심박수 LT1 LT2 추정\n이갓으로 종목별 심박존을 알수있음",
     "icon": "🏃",
     "version": "v1",
-    "webUrl": "https://nirc-shared-muap45yf-lee-sun-woo-s-projects.vercel.app",
-    "zipUrl": "https://github.com/leesunrain/nirc-shared-muap45yf/archive/refs/heads/main.zip",
+    "webUrl": "https://nirc-shared-muap47nt-lee-sun-woo-s-projects.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-muap47nt/archive/refs/heads/main.zip",
     "tag": "공용 앱",
     "access": "member",
     "hidden": false,
-    "repoName": "nirc-shared-muap45yf",
-    "appId": "oc_muap493w_wtxi3bwawq",
-    "updatedAt": "2026-09-21T03:39:13.411Z"
+    "repoName": "nirc-shared-muap47nt",
+    "appId": "oc_muap4atd_shbecpnb7c",
+    "updatedAt": "2026-09-21T03:39:15.972Z"
   }
 ]
