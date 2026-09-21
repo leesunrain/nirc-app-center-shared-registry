@@ -221,5 +221,20 @@
     "repoName": "nirc-shared-mu5aoczm",
     "appId": "oc_mu5aog61_h6eqagtvfq",
     "updatedAt": "2026-09-17T08:56:09.095Z"
+  },
+  {
+    "id": "shared-muaqu9r9-fqtqt",
+    "name": "간담 심박존 예측",
+    "description": "기민 차트를 넣으면 자동으로 LT1 LT2 분석",
+    "icon": "🏃",
+    "version": "v1",
+    "webUrl": "https://nirc-shared-muaqtoq2-lee-sun-woo-s-projects.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-muaqtoq2/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "member",
+    "hidden": false,
+    "repoName": "nirc-shared-muaqtoq2",
+    "appId": "oc_muaqtsg8_2rlkad4h15",
+    "updatedAt": "2026-09-21T04:27:04.293Z"
   }
 ]
