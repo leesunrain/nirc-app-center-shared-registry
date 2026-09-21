@@ -221,20 +221,5 @@
     "repoName": "nirc-shared-mu5aoczm",
     "appId": "oc_mu5aog61_h6eqagtvfq",
     "updatedAt": "2026-09-17T08:56:09.095Z"
-  },
-  {
-    "id": "shared-muahzdo3-niqtr",
-    "name": "간단 심박존 예측",
-    "description": "본인이 달린 가민 기록 중에서 그래포 1장만 캡쳐해서 올려주고\n본인의 자각강도를 적어주면 그 테이터를 분석해서 본인의 심박존을 알려줌(LT1 LT2) 그리고 종목별 심박존도 표시해줌",
-    "icon": "🏃",
-    "version": "v3",
-    "webUrl": "https://nirc-shared-muahz4uu-lee-sun-woo-s-projects.vercel.app",
-    "zipUrl": "https://github.com/leesunrain/nirc-shared-muahz4uu/archive/refs/heads/main.zip",
-    "tag": "공용 앱",
-    "access": "member",
-    "hidden": false,
-    "repoName": "nirc-shared-muahz4uu",
-    "appId": "oc_muahz8so_91jnwzsilk",
-    "updatedAt": "2026-09-21T03:35:44.169Z"
   }
 ]
