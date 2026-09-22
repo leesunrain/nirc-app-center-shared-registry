@@ -236,5 +236,20 @@
     "repoName": "nirc-shared-muaqtoq2",
     "appId": "oc_muaqtsg8_2rlkad4h15",
     "updatedAt": "2026-09-21T04:27:04.293Z"
+  },
+  {
+    "id": "shared-mubztgtd-ne5tc",
+    "name": "페이스 및 예상기록 변환기",
+    "description": "목표 종목의 페이스를 넣은면 에상기록이 나오고\n목표 종목의 예상기록을 넣으면 페이시가 나옵니다.\n많이 활용하시기 바랍니다.",
+    "icon": "🏃",
+    "version": "v1",
+    "webUrl": "https://nirc-shared-mubzt6y5.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mubzt6y5/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "public",
+    "hidden": false,
+    "repoName": "nirc-shared-mubzt6y5",
+    "appId": "oc_mubztaca_1jxsne54pe",
+    "updatedAt": "2026-09-22T01:26:09.505Z"
   }
 ]
