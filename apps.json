@@ -253,18 +253,18 @@
     "updatedAt": "2026-09-22T01:26:09.505Z"
   },
   {
-    "id": "shared-muhyz2bl-0drh6",
+    "id": "shared-muhyz5s3-s85m1",
     "name": "케이던스 보폭 기록 연동 계산기",
     "description": "내 목표기록으로 뛰려면\n보폭과 케이던스가 어떻게 되는지 알아볼수 있는 앱입니다",
     "icon": "🏃",
     "version": "v1",
-    "webUrl": "https://nirc-shared-muhyyu0l.vercel.app",
-    "zipUrl": "https://github.com/leesunrain/nirc-shared-muhyyu0l/archive/refs/heads/main.zip",
+    "webUrl": "https://nirc-shared-muhyyvyv.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-muhyyvyv/archive/refs/heads/main.zip",
     "tag": "공용 앱",
     "access": "member",
     "hidden": false,
-    "repoName": "nirc-shared-muhyyu0l",
-    "appId": "oc_muhyyx07_m6i6dbqusc",
-    "updatedAt": "2026-09-26T05:49:08.097Z"
+    "repoName": "nirc-shared-muhyyvyv",
+    "appId": "oc_muhyyyf6_vpdbhyviny",
+    "updatedAt": "2026-09-26T05:49:12.579Z"
   }
 ]
