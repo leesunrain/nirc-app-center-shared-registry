@@ -266,5 +266,20 @@
     "repoName": "nirc-shared-muhyyvyv",
     "appId": "oc_muhyyyf6_vpdbhyviny",
     "updatedAt": "2026-09-26T06:28:32.537Z"
+  },
+  {
+    "id": "shared-mul7a7ov-h0orv",
+    "name": "말로적는 마라톤일지",
+    "description": "훈련 내용을 말로적어서 기록",
+    "icon": "🏃",
+    "version": "v1",
+    "webUrl": "https://nirc-shared-mul79y0n-lee-sun-woo-s-projects.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mul79y0n/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "public",
+    "hidden": false,
+    "repoName": "nirc-shared-mul79y0n",
+    "appId": "oc_mul79yxm_g2e5nrvjo1",
+    "updatedAt": "2026-09-28T12:05:03.727Z"
   }
 ]
