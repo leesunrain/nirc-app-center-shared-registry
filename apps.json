@@ -287,7 +287,7 @@
     "name": "트렉 랩 페이스 산정기",
     "description": "트렉 훈련 바퀴별 랩 체크 앱",
     "icon": "🏃",
-    "version": "v1",
+    "version": "v2",
     "webUrl": "https://nirc-shared-muqunm49.vercel.app",
     "zipUrl": "https://github.com/leesunrain/nirc-shared-muqunm49/archive/refs/heads/main.zip",
     "tag": "공용 앱",
@@ -295,6 +295,6 @@
     "hidden": false,
     "repoName": "nirc-shared-muqunm49",
     "appId": "oc_muqunr4p_nut90i1t7u",
-    "updatedAt": "2026-10-02T10:58:25.031Z"
+    "updatedAt": "2026-10-02T11:20:10.507Z"
   }
 ]
