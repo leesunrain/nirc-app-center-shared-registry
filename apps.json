@@ -306,10 +306,10 @@
     "webUrl": "https://nirc-shared-musg5nrm.vercel.app",
     "zipUrl": "https://github.com/leesunrain/nirc-shared-musg5nrm/archive/refs/heads/main.zip",
     "tag": "공용 앱",
-    "access": "public",
+    "access": "admin",
     "hidden": false,
     "repoName": "nirc-shared-musg5nrm",
     "appId": "oc_musg5rp2_azzbzdeyqr",
-    "updatedAt": "2026-10-03T13:48:05.306Z"
+    "updatedAt": "2026-10-03T13:48:18.390Z"
   }
 ]
