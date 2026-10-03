@@ -296,5 +296,20 @@
     "repoName": "nirc-shared-muqunm49",
     "appId": "oc_muqunr4p_nut90i1t7u",
     "updatedAt": "2026-10-02T11:20:14.227Z"
+  },
+  {
+    "id": "shared-musg5yre-jvybt",
+    "name": "동마 서브3 훈련앱",
+    "description": "27년 3월 21일(일) 동아마라톤을 위한 5개월 스케줄",
+    "icon": "🏃",
+    "version": "v1",
+    "webUrl": "https://nirc-shared-musg5nrm.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-musg5nrm/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "public",
+    "hidden": false,
+    "repoName": "nirc-shared-musg5nrm",
+    "appId": "oc_musg5rp2_azzbzdeyqr",
+    "updatedAt": "2026-10-03T13:48:05.306Z"
   }
 ]
