@@ -311,5 +311,20 @@
     "repoName": "nirc-shared-musg5nrm",
     "appId": "oc_musg5rp2_azzbzdeyqr",
     "updatedAt": "2026-10-03T13:48:18.390Z"
+  },
+  {
+    "id": "shared-mux4nsx4-fu5ys",
+    "name": "훈련페이스 계산",
+    "description": "5k와 10k 기록을 입력하면\n각종 훈련페이스를 쉽게 알수있도록 만들었다",
+    "icon": "🏃",
+    "version": "v1",
+    "webUrl": "https://nirc-shared-mux4nj9h-lee-sun-woo-s-projects.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mux4nj9h/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "public",
+    "hidden": false,
+    "repoName": "nirc-shared-mux4nj9h",
+    "appId": "oc_mux4nnap_v8jupda0ze",
+    "updatedAt": "2026-10-06T20:24:53.032Z"
   }
 ]
