@@ -326,5 +326,20 @@
     "repoName": "nirc-shared-mux4nj9h",
     "appId": "oc_mux4nnap_v8jupda0ze",
     "updatedAt": "2026-10-06T20:24:53.032Z"
+  },
+  {
+    "id": "shared-muyz7znv-p2906",
+    "name": "10k 기준 훈련페이스",
+    "description": "10k 페이스를 기준으로 각 훈련별 페이스 선정",
+    "icon": "🏃",
+    "version": "v1",
+    "webUrl": "https://nirc-shared-muyz7r7j.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-muyz7r7j/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "public",
+    "hidden": false,
+    "repoName": "nirc-shared-muyz7r7j",
+    "appId": "oc_muyz7w2j_82f9z1nq7c",
+    "updatedAt": "2026-10-08T03:28:09.547Z"
   }
 ]
