@@ -333,13 +333,13 @@
     "description": "1000m 5k 10k 기록과\n본인의 LT1 LT2 기록을 넣으면\n풀코스 예상기록고 km당 구간 예상페이스를\n자동으로 알 수 있도록 만듬",
     "icon": "🏃",
     "version": "v3",
-    "webUrl": "https://nirc-shared-mu3o2gal.vercel.app",
+    "webUrl": "https://nirc-shared-mu3o2gal-o3s1p0iut-lee-sun-woo-s-projects.vercel.app",
     "zipUrl": "https://github.com/leesunrain/nirc-shared-mu3o2gal/archive/refs/heads/main.zip",
     "tag": "공용 앱",
     "access": "public",
     "hidden": false,
     "repoName": "nirc-shared-mu3o2gal",
     "appId": "oc_mu3o2i1o_u56psj9q88",
-    "updatedAt": "2026-10-13T02:09:43.363Z"
+    "updatedAt": "2026-10-13T02:09:47.066Z"
   }
 ]
