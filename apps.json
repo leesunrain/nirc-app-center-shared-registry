@@ -148,21 +148,6 @@
     "updatedAt": "2026-09-14T20:39:30.035Z"
   },
   {
-    "id": "shared-mu3o2r8d-4vebf",
-    "name": "풀 마라톤 전용 예상기록 및 페이스 산정",
-    "description": "1000m 5k 10k 기록과\n본인의 LT1 LT2 기록을 넣으면\n풀코스 예상기록고 km당 구간 예상페이스를\n자동으로 알 수 있도록 만듬",
-    "icon": "🏃",
-    "version": "v1",
-    "webUrl": "https://nirc-shared-mu3o2gal.vercel.app",
-    "zipUrl": "https://github.com/leesunrain/nirc-shared-mu3o2gal/archive/refs/heads/main.zip",
-    "tag": "공용 앱",
-    "access": "public",
-    "hidden": false,
-    "repoName": "nirc-shared-mu3o2gal",
-    "appId": "oc_mu3o2i1o_u56psj9q88",
-    "updatedAt": "2026-09-20T05:41:14.029Z"
-  },
-  {
     "id": "shared-mu3q2ohr-74mha",
     "name": "마라톤 훈련 페이스 계산기",
     "description": "개인별·조별 훈련 페이스와 환경 보정을 계산하는 앱",
@@ -341,5 +326,20 @@
     "repoName": "nirc-shared-muyz7r7j",
     "appId": "oc_muyz7w2j_82f9z1nq7c",
     "updatedAt": "2026-10-08T03:28:09.547Z"
+  },
+  {
+    "id": "shared-mu3o2r8d-4vebf",
+    "name": "풀 마라톤 전용 예상기록 및 페이스 산정",
+    "description": "1000m 5k 10k 기록과\n본인의 LT1 LT2 기록을 넣으면\n풀코스 예상기록고 km당 구간 예상페이스를\n자동으로 알 수 있도록 만듬",
+    "icon": "🏃",
+    "version": "v2",
+    "webUrl": "https://nirc-shared-mu3o2gal.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mu3o2gal/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "public",
+    "hidden": false,
+    "repoName": "nirc-shared-mu3o2gal",
+    "appId": "oc_mu3o2i1o_u56psj9q88",
+    "updatedAt": "2026-10-13T01:57:37.065Z"
   }
 ]
