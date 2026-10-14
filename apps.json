@@ -341,5 +341,20 @@
     "repoName": "nirc-shared-mu3o2gal",
     "appId": "oc_mu3o2i1o_u56psj9q88",
     "updatedAt": "2026-10-13T02:09:47.066Z"
+  },
+  {
+    "id": "shared-mv7g3ev0-jgvze",
+    "name": "하고 싶다면",
+    "description": "풀 목표를 하고 싶다면\n5k 10k 하프를 얼마를 뛰어야 가능한지\n보여주는 앱입니다.",
+    "icon": "🏃",
+    "version": "v1",
+    "webUrl": "https://nirc-shared-mv7g2z1s.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mv7g2z1s/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "public",
+    "hidden": false,
+    "repoName": "nirc-shared-mv7g2z1s",
+    "appId": "oc_mv7g33zk_qpshhg3qx7",
+    "updatedAt": "2026-10-14T01:42:38.844Z"
   }
 ]
