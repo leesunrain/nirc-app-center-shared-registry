@@ -347,7 +347,7 @@
     "name": "하고 싶다면",
     "description": "풀 목표를 하고 싶다면\n5k 10k 하프를 얼마를 뛰어야 가능한지\n보여주는 앱입니다.",
     "icon": "🏃",
-    "version": "v1",
+    "version": "v2",
     "webUrl": "https://nirc-shared-mv7g2z1s.vercel.app",
     "zipUrl": "https://github.com/leesunrain/nirc-shared-mv7g2z1s/archive/refs/heads/main.zip",
     "tag": "공용 앱",
@@ -355,6 +355,6 @@
     "hidden": false,
     "repoName": "nirc-shared-mv7g2z1s",
     "appId": "oc_mv7g33zk_qpshhg3qx7",
-    "updatedAt": "2026-10-14T01:42:38.844Z"
+    "updatedAt": "2026-10-14T22:18:49.235Z"
   }
 ]
