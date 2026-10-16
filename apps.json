@@ -371,5 +371,20 @@
     "repoName": "nirc-shared-mva957sk",
     "appId": "oc_mva95ae1_u7kztkktnc",
     "updatedAt": "2026-10-16T00:52:19.273Z"
+  },
+  {
+    "id": "shared-mvbae40a-79kre",
+    "name": "10k 기록향상을 위한 핵심 3대 훈련 페이스",
+    "description": "10k 기록향상을 위한 핵심 3대 훈련 페이스 앱",
+    "icon": "🏃",
+    "version": "v1",
+    "webUrl": "https://nirc-shared-mvbadthv-lee-sun-woo-s-projects.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mvbadthv/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "public",
+    "hidden": false,
+    "repoName": "nirc-shared-mvbadthv",
+    "appId": "oc_mvbadyvy_t8s2lxp0zd",
+    "updatedAt": "2026-10-16T18:14:05.002Z"
   }
 ]
