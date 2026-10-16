@@ -351,11 +351,11 @@
     "webUrl": "https://nirc-shared-mv7g2z1s.vercel.app",
     "zipUrl": "https://github.com/leesunrain/nirc-shared-mv7g2z1s/archive/refs/heads/main.zip",
     "tag": "공용 앱",
-    "access": "public",
+    "access": "member",
     "hidden": false,
     "repoName": "nirc-shared-mv7g2z1s",
     "appId": "oc_mv7g33zk_qpshhg3qx7",
-    "updatedAt": "2026-10-14T22:18:49.235Z"
+    "updatedAt": "2026-10-16T00:52:08.190Z"
   },
   {
     "id": "shared-mva95h7d-hc8u7",
