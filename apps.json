@@ -356,5 +356,20 @@
     "repoName": "nirc-shared-mv7g2z1s",
     "appId": "oc_mv7g33zk_qpshhg3qx7",
     "updatedAt": "2026-10-14T22:18:49.235Z"
+  },
+  {
+    "id": "shared-mva95h7d-hc8u7",
+    "name": "Vo2max 90% 훈련법",
+    "description": "10k 기록 향상에 가장 효율적인 훈련이\nVO2max 90%에서 5~10분정도 유지하는거라고\n해서 어떤 훈련이 그 영역에서 오랫동안 머물수 있는지 찾아서\n가장 적합한 훈련을 제시합니다. 참고하시기 바랍니다.",
+    "icon": "🏃",
+    "version": "v1",
+    "webUrl": "https://nirc-shared-mva957sk.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mva957sk/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "public",
+    "hidden": false,
+    "repoName": "nirc-shared-mva957sk",
+    "appId": "oc_mva95ae1_u7kztkktnc",
+    "updatedAt": "2026-10-16T00:51:36.409Z"
   }
 ]
