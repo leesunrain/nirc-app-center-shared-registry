@@ -321,11 +321,11 @@
     "webUrl": "https://nirc-shared-muyz7r7j.vercel.app",
     "zipUrl": "https://github.com/leesunrain/nirc-shared-muyz7r7j/archive/refs/heads/main.zip",
     "tag": "공용 앱",
-    "access": "public",
+    "access": "member",
     "hidden": false,
     "repoName": "nirc-shared-muyz7r7j",
     "appId": "oc_muyz7w2j_82f9z1nq7c",
-    "updatedAt": "2026-10-08T03:28:09.547Z"
+    "updatedAt": "2026-10-16T00:52:10.707Z"
   },
   {
     "id": "shared-mu3o2r8d-4vebf",
