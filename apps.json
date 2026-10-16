@@ -366,10 +366,10 @@
     "webUrl": "https://nirc-shared-mva957sk.vercel.app",
     "zipUrl": "https://github.com/leesunrain/nirc-shared-mva957sk/archive/refs/heads/main.zip",
     "tag": "공용 앱",
-    "access": "public",
+    "access": "member",
     "hidden": false,
     "repoName": "nirc-shared-mva957sk",
     "appId": "oc_mva95ae1_u7kztkktnc",
-    "updatedAt": "2026-10-16T00:51:36.409Z"
+    "updatedAt": "2026-10-16T00:52:19.273Z"
   }
 ]
