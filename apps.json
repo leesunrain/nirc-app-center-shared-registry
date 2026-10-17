@@ -401,5 +401,20 @@
     "repoName": "nirc-shared-mvc8nrlu",
     "appId": "oc_mvc8nw44_bqi3uu84w7",
     "updatedAt": "2026-10-17T10:13:36.175Z"
+  },
+  {
+    "id": "shared-mvc8tuk2-8zfpj",
+    "name": "러닝 환경 페이스 보정",
+    "description": "기온·습도·이슬점을 반영한 러닝 페이스 보정",
+    "icon": "🌡️",
+    "version": "v2",
+    "webUrl": "https://nirc-shared-mvc8tknk.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mvc8tknk/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "public",
+    "hidden": false,
+    "repoName": "nirc-shared-mvc8tknk",
+    "appId": "oc_mvc8tocp_x4msz2lgo1",
+    "updatedAt": "2026-10-17T10:18:06.194Z"
   }
 ]
