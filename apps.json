@@ -386,5 +386,20 @@
     "repoName": "nirc-shared-mvbadthv",
     "appId": "oc_mvbadyvy_t8s2lxp0zd",
     "updatedAt": "2026-10-16T18:14:05.002Z"
+  },
+  {
+    "id": "shared-mvc8o27i-nrkpx",
+    "name": "샘플 카운터",
+    "description": "앱센터 동작 확인용 테스트 앱",
+    "icon": "🧮",
+    "version": "v2",
+    "webUrl": "https://nirc-shared-mvc8nrlu.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mvc8nrlu/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "admin",
+    "hidden": true,
+    "repoName": "nirc-shared-mvc8nrlu",
+    "appId": "oc_mvc8nw44_bqi3uu84w7",
+    "updatedAt": "2026-10-17T10:13:36.175Z"
   }
 ]
