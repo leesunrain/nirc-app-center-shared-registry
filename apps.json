@@ -431,5 +431,20 @@
     "repoName": "nirc-shared-mvj3y49c",
     "appId": "oc_mvj3y9gp_srs1g2oxsg",
     "updatedAt": "2026-10-22T05:36:08.364Z"
+  },
+  {
+    "id": "shared-mvk879gv-nhouy",
+    "name": "여자 만스터즈 입상자 관리 및 검색",
+    "description": "여자 마스터즈 입상자 관리 및 검색",
+    "icon": "🏃",
+    "version": "v1",
+    "webUrl": "https://nirc-shared-mvk86y6r.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mvk86y6r/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "public",
+    "hidden": false,
+    "repoName": "nirc-shared-mvk86y6r",
+    "appId": "oc_mvk872un_f6c31x73he",
+    "updatedAt": "2026-10-23T00:22:41.839Z"
   }
 ]
