@@ -441,10 +441,10 @@
     "webUrl": "https://nirc-shared-mvk86y6r.vercel.app",
     "zipUrl": "https://github.com/leesunrain/nirc-shared-mvk86y6r/archive/refs/heads/main.zip",
     "tag": "공용 앱",
-    "access": "public",
+    "access": "admin",
     "hidden": false,
     "repoName": "nirc-shared-mvk86y6r",
     "appId": "oc_mvk872un_f6c31x73he",
-    "updatedAt": "2026-10-23T00:22:41.839Z"
+    "updatedAt": "2026-10-23T00:22:55.894Z"
   }
 ]
