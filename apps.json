@@ -446,5 +446,20 @@
     "repoName": "nirc-shared-mu3o2gal",
     "appId": "oc_mu3o2i1o_u56psj9q88",
     "updatedAt": "2026-10-24T09:39:08.433Z"
+  },
+  {
+    "id": "shared-mvmksjxk-z2w4j",
+    "name": "김유진선수 관리앱",
+    "description": "김유진선수 화목 관리앱",
+    "icon": "🏃",
+    "version": "v1",
+    "webUrl": "https://nirc-shared-mvmks8wn.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mvmks8wn/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "public",
+    "hidden": false,
+    "repoName": "nirc-shared-mvmks8wn",
+    "appId": "oc_mvmksbsc_aaho7reel7",
+    "updatedAt": "2026-10-24T15:50:42.920Z"
   }
 ]
