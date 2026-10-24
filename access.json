@@ -13,8 +13,6 @@
   },
   "__settings": {
     "appOrder": [
-      "static-sample",
-      "static-temp",
       "static-pace-lap",
       "shared-mty6hmw0-463xm",
       "shared-mtya30xq-9m1ci",
@@ -41,11 +39,18 @@
       "shared-muyz7znv-p2906",
       "shared-mv7g3ev0-jgvze",
       "shared-mva95h7d-hc8u7",
+      "shared-mvc8tuk2-8zfpj",
+      "shared-mvc8o27i-nrkpx",
+      "shared-mvbae40a-79kre",
+      "shared-mvj3yi0c-jihd6",
+      "shared-mvk879gv-nhouy",
+      "static-sample",
+      "static-temp",
       "static-oneclick",
       "static-marathon-pace",
       "static-member-manager"
     ],
-    "orderUpdatedAt": "2026-10-16T00:52:24.574Z",
+    "orderUpdatedAt": "2026-10-24T09:37:53.132Z",
     "staffPasswordHash": "0de492c1f75d3030df61e285617b70f1494c0abc583e5ea850d62f01b5478dc4",
     "updatedAt": "2026-09-13T21:16:47.024Z"
   },
