@@ -461,5 +461,20 @@
     "repoName": "nirc-shared-mvmks8wn",
     "appId": "oc_mvmksbsc_aaho7reel7",
     "updatedAt": "2026-10-24T15:50:51.989Z"
+  },
+  {
+    "id": "shared-mvmor82k-v67du",
+    "name": "27년 동아마라톤 훈련 관리앱",
+    "description": "27년 동마준비",
+    "icon": "🏃",
+    "version": "v1",
+    "webUrl": "https://nirc-shared-mvmoqwqk.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mvmoqwqk/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "public",
+    "hidden": false,
+    "repoName": "nirc-shared-mvmoqwqk",
+    "appId": "oc_mvmoqzwp_d7uxyrdoqt",
+    "updatedAt": "2026-10-24T17:41:39.356Z"
   }
 ]
