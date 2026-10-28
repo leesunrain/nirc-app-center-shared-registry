@@ -486,10 +486,10 @@
     "webUrl": "https://nirc-shared-mvrrymqm.vercel.app",
     "zipUrl": "https://github.com/leesunrain/nirc-shared-mvrrymqm/archive/refs/heads/main.zip",
     "tag": "공용 앱",
-    "access": "admin",
+    "access": "staff",
     "hidden": false,
     "repoName": "nirc-shared-mvrrymqm",
     "appId": "oc_mvrrysw7_f3ph4mpw90",
-    "updatedAt": "2026-10-28T07:10:44.456Z"
+    "updatedAt": "2026-10-28T07:10:55.497Z"
   }
 ]
