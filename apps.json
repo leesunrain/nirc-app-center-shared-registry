@@ -482,14 +482,14 @@
     "name": "화목 훈련페이스",
     "description": "화목 훈련 페이스를 초수로 나타냄",
     "icon": "🏃",
-    "version": "v2",
-    "webUrl": "https://nirc-shared-mvrrymqm.vercel.app",
+    "version": "v3",
+    "webUrl": "https://nirc-shared-mvrrymqm-lee-sun-woo-s-projects.vercel.app",
     "zipUrl": "https://github.com/leesunrain/nirc-shared-mvrrymqm/archive/refs/heads/main.zip",
     "tag": "공용 앱",
     "access": "staff",
     "hidden": false,
     "repoName": "nirc-shared-mvrrymqm",
     "appId": "oc_mvrrysw7_f3ph4mpw90",
-    "updatedAt": "2026-10-28T07:32:47.761Z"
+    "updatedAt": "2026-10-28T09:10:12.645Z"
   }
 ]
