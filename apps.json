@@ -484,7 +484,7 @@
     "name": "1600m 분석앱",
     "description": "",
     "icon": "🏃",
-    "version": "v3",
+    "version": "v4",
     "webUrl": "https://nirc-shared-mty6hc3d.vercel.app",
     "zipUrl": "https://github.com/leesunrain/nirc-shared-mty6hc3d/archive/refs/heads/main.zip",
     "tag": "공용 앱",
@@ -492,6 +492,6 @@
     "hidden": false,
     "repoName": "nirc-shared-mty6hc3d",
     "appId": "oc_mty6hdea_pxtqwq5jk1",
-    "updatedAt": "2026-10-29T09:58:26.711Z"
+    "updatedAt": "2026-10-29T17:59:49.947Z"
   }
 ]
