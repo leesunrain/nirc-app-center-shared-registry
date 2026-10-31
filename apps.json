@@ -503,10 +503,21 @@
     "webUrl": "https://nirc-shared-mvw0x5oq.vercel.app",
     "zipUrl": "https://github.com/leesunrain/nirc-shared-mvw0x5oq/archive/refs/heads/main.zip",
     "tag": "공용 앱",
-    "access": "admin",
+    "access": "selected",
     "hidden": false,
     "repoName": "nirc-shared-mvw0x5oq",
     "appId": "oc_mvw0x8ts_5gce0l4utv",
-    "updatedAt": "2026-10-31T06:32:32.001Z"
+    "updatedAt": "2026-10-31T06:34:13.190Z",
+    "allowedUsers": [
+      "legacy:이선우",
+      "legacy:김건욱",
+      "legacy:박수진",
+      "legacy:윤원진",
+      "legacy:고은",
+      "legacy:신민경",
+      "legacy:조수빈",
+      "legacy:이창환",
+      "legacy:박영윤"
+    ]
   }
 ]
