@@ -441,11 +441,14 @@
     "webUrl": "https://nirc-shared-mvmks8wn.vercel.app",
     "zipUrl": "https://github.com/leesunrain/nirc-shared-mvmks8wn/archive/refs/heads/main.zip",
     "tag": "공용 앱",
-    "access": "admin",
+    "access": "selected",
     "hidden": false,
     "repoName": "nirc-shared-mvmks8wn",
     "appId": "oc_mvmksbsc_aaho7reel7",
-    "updatedAt": "2026-10-24T15:50:51.989Z"
+    "updatedAt": "2026-10-31T10:29:57.234Z",
+    "allowedUsers": [
+      "u_630bd53b-2a50-4b8c-904e-bb80f1cf08af"
+    ]
   },
   {
     "id": "shared-mvmor82k-v67du",
