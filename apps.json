@@ -525,7 +525,7 @@
     "name": "27년 동마 스케줄 관리앱(풀준비 앱)",
     "description": "27년 동마 풀준비를 위한 앱",
     "icon": "🏃",
-    "version": "v1",
+    "version": "v2",
     "webUrl": "https://nirc-shared-mvw1ft17.vercel.app",
     "zipUrl": "https://github.com/leesunrain/nirc-shared-mvw1ft17/archive/refs/heads/main.zip",
     "tag": "공용 앱",
@@ -533,11 +533,6 @@
     "hidden": false,
     "repoName": "nirc-shared-mvw1ft17",
     "appId": "oc_mvw1fvfs_y97kqd2g80",
-    "updatedAt": "2026-10-31T06:47:59.971Z",
-    "allowedUsers": [
-      "legacy:이선우",
-      "legacy:박수진",
-      "legacy:손수련"
-    ]
+    "updatedAt": "2026-10-31T07:06:10.195Z"
   }
 ]
