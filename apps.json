@@ -465,21 +465,6 @@
     "updatedAt": "2026-10-24T17:41:50.384Z"
   },
   {
-    "id": "shared-mvrryy6i-ocg9h",
-    "name": "화목 훈련페이스",
-    "description": "화목 훈련 페이스를 초수로 나타냄",
-    "icon": "🏃",
-    "version": "v3",
-    "webUrl": "https://nirc-shared-mvrrymqm-lee-sun-woo-s-projects.vercel.app",
-    "zipUrl": "https://github.com/leesunrain/nirc-shared-mvrrymqm/archive/refs/heads/main.zip",
-    "tag": "공용 앱",
-    "access": "staff",
-    "hidden": false,
-    "repoName": "nirc-shared-mvrrymqm",
-    "appId": "oc_mvrrysw7_f3ph4mpw90",
-    "updatedAt": "2026-10-28T09:10:12.645Z"
-  },
-  {
     "id": "shared-mty6hmw0-463xm",
     "name": "1600m 분석앱",
     "description": "",
@@ -508,5 +493,20 @@
     "repoName": "nirc-shared-mvvocbll",
     "appId": "oc_mvvocezw_wcpvzwzl9q",
     "updatedAt": "2026-10-31T01:42:45.321Z"
+  },
+  {
+    "id": "shared-mvw0xghn-lq15w",
+    "name": "화목훈련 페이스",
+    "description": "화 VO2max 90%\n목 LT인터벌주",
+    "icon": "🏃",
+    "version": "v1",
+    "webUrl": "https://nirc-shared-mvw0x5oq.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mvw0x5oq/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "admin",
+    "hidden": false,
+    "repoName": "nirc-shared-mvw0x5oq",
+    "appId": "oc_mvw0x8ts_5gce0l4utv",
+    "updatedAt": "2026-10-31T06:32:21.179Z"
   }
 ]
