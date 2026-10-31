@@ -529,10 +529,15 @@
     "webUrl": "https://nirc-shared-mvw1ft17.vercel.app",
     "zipUrl": "https://github.com/leesunrain/nirc-shared-mvw1ft17/archive/refs/heads/main.zip",
     "tag": "공용 앱",
-    "access": "public",
+    "access": "selected",
     "hidden": false,
     "repoName": "nirc-shared-mvw1ft17",
     "appId": "oc_mvw1fvfs_y97kqd2g80",
-    "updatedAt": "2026-10-31T06:46:50.454Z"
+    "updatedAt": "2026-10-31T06:47:43.197Z",
+    "allowedUsers": [
+      "legacy:이선우",
+      "legacy:박수진",
+      "legacy:손수련"
+    ]
   }
 ]
