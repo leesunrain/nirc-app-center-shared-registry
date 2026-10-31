@@ -493,5 +493,20 @@
     "repoName": "nirc-shared-mty6hc3d",
     "appId": "oc_mty6hdea_pxtqwq5jk1",
     "updatedAt": "2026-10-29T17:59:49.947Z"
+  },
+  {
+    "id": "shared-mvvoclpo-z2t5t",
+    "name": "대회 페이스 산출기",
+    "description": "종목별 대회 페이스 산출 앱",
+    "icon": "🏃",
+    "version": "v1",
+    "webUrl": "https://nirc-shared-mvvocbll.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mvvocbll/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "member",
+    "hidden": false,
+    "repoName": "nirc-shared-mvvocbll",
+    "appId": "oc_mvvocezw_wcpvzwzl9q",
+    "updatedAt": "2026-10-31T00:40:12.780Z"
   }
 ]
