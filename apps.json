@@ -499,7 +499,7 @@
     "name": "대회 페이스 산출기",
     "description": "종목별 대회 페이스 산출 앱",
     "icon": "🏃",
-    "version": "v4",
+    "version": "v5",
     "webUrl": "https://nirc-shared-mvvocbll.vercel.app",
     "zipUrl": "https://github.com/leesunrain/nirc-shared-mvvocbll/archive/refs/heads/main.zip",
     "tag": "공용 앱",
@@ -507,6 +507,6 @@
     "hidden": false,
     "repoName": "nirc-shared-mvvocbll",
     "appId": "oc_mvvocezw_wcpvzwzl9q",
-    "updatedAt": "2026-10-31T01:01:44.127Z"
+    "updatedAt": "2026-10-31T01:42:45.321Z"
   }
 ]
