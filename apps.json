@@ -398,11 +398,14 @@
     "webUrl": "https://nirc-shared-mvj3y49c.vercel.app",
     "zipUrl": "https://github.com/leesunrain/nirc-shared-mvj3y49c/archive/refs/heads/main.zip",
     "tag": "공용 앱",
-    "access": "admin",
+    "access": "selected",
     "hidden": false,
     "repoName": "nirc-shared-mvj3y49c",
     "appId": "oc_mvj3y9gp_srs1g2oxsg",
-    "updatedAt": "2026-10-22T05:36:08.364Z"
+    "updatedAt": "2026-10-31T10:10:21.467Z",
+    "allowedUsers": [
+      "legacy:박영윤"
+    ]
   },
   {
     "id": "shared-mvk879gv-nhouy",
