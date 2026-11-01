@@ -446,11 +446,16 @@
     "webUrl": "https://nirc-shared-mvmoqwqk.vercel.app",
     "zipUrl": "https://github.com/leesunrain/nirc-shared-mvmoqwqk/archive/refs/heads/main.zip",
     "tag": "공용 앱",
-    "access": "staff",
+    "access": "selected",
     "hidden": false,
     "repoName": "nirc-shared-mvmoqwqk",
     "appId": "oc_mvmoqzwp_d7uxyrdoqt",
-    "updatedAt": "2026-10-24T17:41:50.384Z"
+    "updatedAt": "2026-11-01T17:15:29.967Z",
+    "allowedUsers": [
+      "legacy:박수진",
+      "legacy:손수련",
+      "u_630bd53b-2a50-4b8c-904e-bb80f1cf08af"
+    ]
   },
   {
     "id": "shared-mty6hmw0-463xm",
