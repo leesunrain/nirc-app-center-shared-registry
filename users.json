@@ -6,5 +6,13 @@
     "active": true,
     "pinHash": "ed247d66703a56bfc15b756f61716c3f3c09a4e75e1b3a67ff2fe3c17b43b658",
     "createdAt": "2026-10-31T10:12:21.869Z"
+  },
+  {
+    "id": "u_d5f2b142-9b7a-45f6-b6c7-44d0e31055c8",
+    "name": "정혜임",
+    "type": "member",
+    "active": true,
+    "pinHash": "ac17e85f2ec639a2a0e5f633e231d8f0df9375d310770616241ac334b90030f6",
+    "createdAt": "2026-11-01T05:30:37.958Z"
   }
 ]
