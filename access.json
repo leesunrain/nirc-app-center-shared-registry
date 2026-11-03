@@ -21,7 +21,6 @@
       "shared-mu06gngn-gy0zz",
       "shared-mu1g4osq-fqfz8",
       "shared-mu1g78ni-ruiye",
-      "shared-mu1ivu7m-8ce95",
       "shared-mu08ec38-5jrel",
       "shared-mu1jhjnc-lav95",
       "shared-mu1p1vg1-61m8m",
@@ -49,13 +48,14 @@
       "shared-mvvoclpo-z2t5t",
       "shared-mvw0xghn-lq15w",
       "shared-mvw1g386-fzz6d",
+      "shared-mu1ivu7m-8ce95",
       "static-sample",
       "static-temp",
       "static-oneclick",
       "static-marathon-pace",
       "static-member-manager"
     ],
-    "orderUpdatedAt": "2026-11-01T19:25:01.494Z",
+    "orderUpdatedAt": "2026-11-03T18:53:31.455Z",
     "staffPasswordHash": "0de492c1f75d3030df61e285617b70f1494c0abc583e5ea850d62f01b5478dc4",
     "updatedAt": "2026-09-13T21:16:47.024Z"
   },
