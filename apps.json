@@ -60,21 +60,6 @@
     "updatedAt": "2026-09-14T16:17:18.986Z"
   },
   {
-    "id": "shared-mu1g78ni-ruiye",
-    "name": "풀 D-3 카보로딩 계산기",
-    "description": "풀 대회 직전 3일간의 카보로딩 양을 계산",
-    "icon": "🏃",
-    "version": "v1",
-    "webUrl": "https://nirc-shared-mu1g6zko.vercel.app",
-    "zipUrl": "https://github.com/leesunrain/nirc-shared-mu1g6zko/archive/refs/heads/main.zip",
-    "tag": "공용 앱",
-    "access": "member",
-    "hidden": false,
-    "repoName": "nirc-shared-mu1g6zko",
-    "appId": "oc_mu1g72ib_ras2ps7bjq",
-    "updatedAt": "2026-09-14T16:19:36.153Z"
-  },
-  {
     "id": "shared-mu1jhjnc-lav95",
     "name": "풀대회전 잭다니엘스 훈련 앱",
     "description": "풀대회전 수요일 훈련 세션\n잭다니엘스 T세션",
@@ -548,5 +533,20 @@
     "repoName": "nirc-shared-mvvocbll",
     "appId": "oc_mvvocezw_wcpvzwzl9q",
     "updatedAt": "2026-11-04T03:59:57.879Z"
+  },
+  {
+    "id": "shared-mu1g78ni-ruiye",
+    "name": "풀 D-3 카보로딩 계산기",
+    "description": "풀 대회 직전 3일간의 카보로딩 양을 계산",
+    "icon": "🏃",
+    "version": "v2",
+    "webUrl": "https://nirc-shared-mu1g6zko-lee-sun-woo-s-projects.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mu1g6zko/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "member",
+    "hidden": false,
+    "repoName": "nirc-shared-mu1g6zko",
+    "appId": "oc_mu1g72ib_ras2ps7bjq",
+    "updatedAt": "2026-11-04T21:45:00.342Z"
   }
 ]
