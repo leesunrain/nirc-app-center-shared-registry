@@ -542,6 +542,12 @@
     "hidden": false,
     "repoName": "nirc-shared-mvmoqwqk",
     "appId": "oc_mvmoqzwp_d7uxyrdoqt",
-    "updatedAt": "2026-11-08T18:18:05.471Z"
+    "updatedAt": "2026-11-08T18:20:20.487Z",
+    "allowedUsers": [
+      "u_630bd53b-2a50-4b8c-904e-bb80f1cf08af",
+      "legacy:이선우",
+      "legacy:김건욱",
+      "legacy:박수진"
+    ]
   }
 ]
