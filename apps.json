@@ -408,26 +408,6 @@
     ]
   },
   {
-    "id": "shared-mvmor82k-v67du",
-    "name": "27년 동아마라톤 훈련 관리앱",
-    "description": "27년 동마준비",
-    "icon": "🏃",
-    "version": "v1",
-    "webUrl": "https://nirc-shared-mvmoqwqk.vercel.app",
-    "zipUrl": "https://github.com/leesunrain/nirc-shared-mvmoqwqk/archive/refs/heads/main.zip",
-    "tag": "공용 앱",
-    "access": "selected",
-    "hidden": false,
-    "repoName": "nirc-shared-mvmoqwqk",
-    "appId": "oc_mvmoqzwp_d7uxyrdoqt",
-    "updatedAt": "2026-11-01T17:15:29.967Z",
-    "allowedUsers": [
-      "legacy:박수진",
-      "legacy:손수련",
-      "u_630bd53b-2a50-4b8c-904e-bb80f1cf08af"
-    ]
-  },
-  {
     "id": "shared-mty6hmw0-463xm",
     "name": "1600m 분석앱",
     "description": "",
@@ -548,5 +528,20 @@
     "repoName": "nirc-shared-mu1g6zko",
     "appId": "oc_mu1g72ib_ras2ps7bjq",
     "updatedAt": "2026-11-08T10:48:49.185Z"
+  },
+  {
+    "id": "shared-mvmor82k-v67du",
+    "name": "27년 동아마라톤 훈련 관리앱",
+    "description": "27년 동마준비",
+    "icon": "🏃",
+    "version": "v2",
+    "webUrl": "https://nirc-shared-mvmoqwqk.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mvmoqwqk/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "selected",
+    "hidden": false,
+    "repoName": "nirc-shared-mvmoqwqk",
+    "appId": "oc_mvmoqzwp_d7uxyrdoqt",
+    "updatedAt": "2026-11-08T17:59:41.290Z"
   }
 ]
