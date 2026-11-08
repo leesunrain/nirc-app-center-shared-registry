@@ -539,14 +539,14 @@
     "name": "풀 D-3 카보로딩 계산기",
     "description": "풀 대회 직전 3일간의 카보로딩 양을 계산",
     "icon": "🏃",
-    "version": "v2",
-    "webUrl": "https://nirc-shared-mu1g6zko-lee-sun-woo-s-projects.vercel.app",
+    "version": "v3",
+    "webUrl": "https://nirc-shared-mu1g6zko.vercel.app",
     "zipUrl": "https://github.com/leesunrain/nirc-shared-mu1g6zko/archive/refs/heads/main.zip",
     "tag": "공용 앱",
     "access": "member",
     "hidden": false,
     "repoName": "nirc-shared-mu1g6zko",
     "appId": "oc_mu1g72ib_ras2ps7bjq",
-    "updatedAt": "2026-11-04T21:45:00.342Z"
+    "updatedAt": "2026-11-08T10:48:49.185Z"
   }
 ]
