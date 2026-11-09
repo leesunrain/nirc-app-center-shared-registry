@@ -559,10 +559,10 @@
     "webUrl": "https://nirc-shared-mw92tkbe.vercel.app",
     "zipUrl": "https://github.com/leesunrain/nirc-shared-mw92tkbe/archive/refs/heads/main.zip",
     "tag": "공용 앱",
-    "access": "public",
+    "access": "member",
     "hidden": false,
     "repoName": "nirc-shared-mw92tkbe",
     "appId": "oc_mw92toib_ykfitj6wbd",
-    "updatedAt": "2026-11-09T10:41:12.415Z"
+    "updatedAt": "2026-11-09T10:50:45.417Z"
   }
 ]
