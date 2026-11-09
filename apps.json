@@ -105,21 +105,6 @@
     "updatedAt": "2026-09-14T20:39:30.035Z"
   },
   {
-    "id": "shared-mu3q2ohr-74mha",
-    "name": "마라톤 훈련 페이스 계산기",
-    "description": "개인별·조별 훈련 페이스와 환경 보정을 계산하는 앱",
-    "icon": "🏃",
-    "version": "v3",
-    "webUrl": "https://nirc-shared-mu3q2d1g.vercel.app",
-    "zipUrl": "https://github.com/leesunrain/nirc-shared-mu3q2d1g/archive/refs/heads/main.zip",
-    "tag": "공용 앱",
-    "access": "staff",
-    "hidden": false,
-    "repoName": "nirc-shared-mu3q2d1g",
-    "appId": "oc_mu3q2eny_klbmuv79l5",
-    "updatedAt": "2026-09-16T23:12:01.230Z"
-  },
-  {
     "id": "shared-mu52d4vh-5tkea",
     "name": "마라톤 훈련 스케줄 제작기",
     "description": "마라톤 훈련 스제물 짤수 있는 앱입니다\n풀 준비시 사용하시면 됩니다.",
@@ -564,5 +549,20 @@
     "repoName": "nirc-shared-mvvocbll",
     "appId": "oc_mvvocezw_wcpvzwzl9q",
     "updatedAt": "2026-11-09T14:59:20.572Z"
+  },
+  {
+    "id": "shared-mu3q2ohr-74mha",
+    "name": "마라톤 훈련 페이스 계산기",
+    "description": "개인별·조별 훈련 페이스와 환경 보정을 계산하는 앱",
+    "icon": "🏃",
+    "version": "v4",
+    "webUrl": "https://nirc-shared-mu3q2d1g.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mu3q2d1g/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "staff",
+    "hidden": false,
+    "repoName": "nirc-shared-mu3q2d1g",
+    "appId": "oc_mu3q2eny_klbmuv79l5",
+    "updatedAt": "2026-11-09T15:18:16.895Z"
   }
 ]
