@@ -549,5 +549,20 @@
       "legacy:김건욱",
       "legacy:박수진"
     ]
+  },
+  {
+    "id": "shared-mw92tvrn-0rt5h",
+    "name": "대회기록 검색",
+    "description": "대회기록 사이트에 연결해서 대회 기록을 쉽게검색",
+    "icon": "🏃",
+    "version": "v1",
+    "webUrl": "https://nirc-shared-mw92tkbe.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mw92tkbe/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "public",
+    "hidden": false,
+    "repoName": "nirc-shared-mw92tkbe",
+    "appId": "oc_mw92toib_ykfitj6wbd",
+    "updatedAt": "2026-11-09T09:46:33.875Z"
   }
 ]
