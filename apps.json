@@ -485,21 +485,6 @@
     "updatedAt": "2026-10-31T10:32:43.642Z"
   },
   {
-    "id": "shared-mvvoclpo-z2t5t",
-    "name": "대회 페이스 산출기",
-    "description": "종목별 대회 페이스 산출 앱",
-    "icon": "🏃",
-    "version": "v8",
-    "webUrl": "https://nirc-shared-mvvocbll.vercel.app",
-    "zipUrl": "https://github.com/leesunrain/nirc-shared-mvvocbll/archive/refs/heads/main.zip",
-    "tag": "공용 앱",
-    "access": "member",
-    "hidden": false,
-    "repoName": "nirc-shared-mvvocbll",
-    "appId": "oc_mvvocezw_wcpvzwzl9q",
-    "updatedAt": "2026-11-04T03:59:57.879Z"
-  },
-  {
     "id": "shared-mu1g78ni-ruiye",
     "name": "풀 D-3 카보로딩 계산기",
     "description": "풀 대회 직전 3일간의 카보로딩 양을 계산",
@@ -564,5 +549,20 @@
     "repoName": "nirc-shared-mu3o2gal",
     "appId": "oc_mu3o2i1o_u56psj9q88",
     "updatedAt": "2026-11-09T14:51:47.621Z"
+  },
+  {
+    "id": "shared-mvvoclpo-z2t5t",
+    "name": "대회 페이스 산출기",
+    "description": "종목별 대회 페이스 산출 앱",
+    "icon": "🏃",
+    "version": "v9",
+    "webUrl": "https://nirc-shared-mvvocbll.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mvvocbll/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "member",
+    "hidden": false,
+    "repoName": "nirc-shared-mvvocbll",
+    "appId": "oc_mvvocezw_wcpvzwzl9q",
+    "updatedAt": "2026-11-09T14:59:20.572Z"
   }
 ]
