@@ -549,5 +549,20 @@
     "repoName": "nirc-shared-mvvocbll",
     "appId": "oc_mvvocezw_wcpvzwzl9q",
     "updatedAt": "2026-11-10T16:31:51.433Z"
+  },
+  {
+    "id": "shared-mwb70a8w-p14hf",
+    "name": "CS 임계속도 계산앱",
+    "description": "2개 이상의 거리를 측정한 기록을 가지고 임계속도를 구할 수 있음",
+    "icon": "🏃",
+    "version": "v1",
+    "webUrl": "https://nirc-shared-mwb6zz1j.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mwb6zz1j/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "member",
+    "hidden": false,
+    "repoName": "nirc-shared-mwb6zz1j",
+    "appId": "oc_mwb70385_z16iejrzpc",
+    "updatedAt": "2026-11-10T21:19:03.393Z"
   }
 ]
