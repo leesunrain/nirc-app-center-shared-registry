@@ -60,21 +60,6 @@
     "updatedAt": "2026-09-14T16:17:18.986Z"
   },
   {
-    "id": "shared-mu1jhjnc-lav95",
-    "name": "풀대회전 잭다니엘스 훈련 앱",
-    "description": "풀대회전 수요일 훈련 세션\n잭다니엘스 T세션",
-    "icon": "🏃",
-    "version": "v2",
-    "webUrl": "https://nirc-shared-mu1jha9c.vercel.app",
-    "zipUrl": "https://github.com/leesunrain/nirc-shared-mu1jha9c/archive/refs/heads/main.zip",
-    "tag": "공용 앱",
-    "access": "member",
-    "hidden": false,
-    "repoName": "nirc-shared-mu1jha9c",
-    "appId": "oc_mu1jhddb_q5alckup39",
-    "updatedAt": "2026-09-14T17:58:32.559Z"
-  },
-  {
     "id": "shared-mtya30xq-9m1ci",
     "name": "26년 마라톤 대회 일정",
     "description": "",
@@ -564,5 +549,20 @@
     "repoName": "nirc-shared-mu3q2d1g",
     "appId": "oc_mu3q2eny_klbmuv79l5",
     "updatedAt": "2026-11-09T15:18:16.895Z"
+  },
+  {
+    "id": "shared-mu1jhjnc-lav95",
+    "name": "풀대회전 잭다니엘스 훈련 앱",
+    "description": "풀대회전 수요일 훈련 세션\n잭다니엘스 T세션",
+    "icon": "🏃",
+    "version": "v3",
+    "webUrl": "https://nirc-shared-mu1jha9c-lee-sun-woo-s-projects.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mu1jha9c/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "member",
+    "hidden": false,
+    "repoName": "nirc-shared-mu1jha9c",
+    "appId": "oc_mu1jhddb_q5alckup39",
+    "updatedAt": "2026-11-10T04:48:59.258Z"
   }
 ]
