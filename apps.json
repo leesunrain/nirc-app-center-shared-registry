@@ -506,21 +506,6 @@
     "updatedAt": "2026-11-09T14:51:47.621Z"
   },
   {
-    "id": "shared-mvvoclpo-z2t5t",
-    "name": "대회 페이스 산출기",
-    "description": "종목별 대회 페이스 산출 앱",
-    "icon": "🏃",
-    "version": "v9",
-    "webUrl": "https://nirc-shared-mvvocbll.vercel.app",
-    "zipUrl": "https://github.com/leesunrain/nirc-shared-mvvocbll/archive/refs/heads/main.zip",
-    "tag": "공용 앱",
-    "access": "member",
-    "hidden": false,
-    "repoName": "nirc-shared-mvvocbll",
-    "appId": "oc_mvvocezw_wcpvzwzl9q",
-    "updatedAt": "2026-11-09T14:59:20.572Z"
-  },
-  {
     "id": "shared-mu3q2ohr-74mha",
     "name": "마라톤 훈련 페이스 계산기",
     "description": "개인별·조별 훈련 페이스와 환경 보정을 계산하는 앱",
@@ -564,5 +549,20 @@
     "repoName": "nirc-shared-mu1g6zko",
     "appId": "oc_mu1g72ib_ras2ps7bjq",
     "updatedAt": "2026-11-10T16:28:59.034Z"
+  },
+  {
+    "id": "shared-mvvoclpo-z2t5t",
+    "name": "대회 페이스 산출기",
+    "description": "종목별 대회 페이스 산출 앱",
+    "icon": "🏃",
+    "version": "v10",
+    "webUrl": "https://nirc-shared-mvvocbll.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mvvocbll/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "member",
+    "hidden": false,
+    "repoName": "nirc-shared-mvvocbll",
+    "appId": "oc_mvvocezw_wcpvzwzl9q",
+    "updatedAt": "2026-11-10T16:31:51.433Z"
   }
 ]
