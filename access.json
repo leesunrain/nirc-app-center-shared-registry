@@ -28,7 +28,6 @@
       "shared-mu3q2ohr-74mha",
       "shared-mu3o2r8d-4vebf",
       "shared-mu5aowhz-so0lc",
-      "shared-mu59lfvt-e1t7n",
       "shared-muaqu9r9-fqtqt",
       "shared-muqunwxz-uixtl",
       "shared-muhyz5s3-s85m1",
@@ -48,6 +47,8 @@
       "shared-mvvoclpo-z2t5t",
       "shared-mvw0xghn-lq15w",
       "shared-mvw1g386-fzz6d",
+      "shared-mw92tvrn-0rt5h",
+      "shared-mu59lfvt-e1t7n",
       "shared-mu1ivu7m-8ce95",
       "static-sample",
       "static-temp",
@@ -55,7 +56,7 @@
       "static-marathon-pace",
       "static-member-manager"
     ],
-    "orderUpdatedAt": "2026-11-08T18:21:36.388Z",
+    "orderUpdatedAt": "2026-11-10T21:01:42.151Z",
     "staffPasswordHash": "0de492c1f75d3030df61e285617b70f1494c0abc583e5ea850d62f01b5478dc4",
     "updatedAt": "2026-09-13T21:16:47.024Z"
   },
