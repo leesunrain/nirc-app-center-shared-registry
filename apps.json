@@ -38,11 +38,11 @@
     "webUrl": "https://nirc-shared-mu08e3ap.vercel.app",
     "zipUrl": "https://github.com/leesunrain/nirc-shared-mu08e3ap/archive/refs/heads/main.zip",
     "tag": "공용 앱",
-    "access": "member",
-    "hidden": false,
+    "access": "admin",
+    "hidden": true,
     "repoName": "nirc-shared-mu08e3ap",
     "appId": "oc_mu08e6wn_asztniu0qx",
-    "updatedAt": "2026-09-14T08:14:33.762Z"
+    "updatedAt": "2026-11-14T06:34:23.375Z"
   },
   {
     "id": "shared-mu1g4osq-fqfz8",
