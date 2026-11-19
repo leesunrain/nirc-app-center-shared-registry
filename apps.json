@@ -556,13 +556,13 @@
     "description": "수정 ZIP을 기존 Vercel 프로젝트에 안전하게 업데이트해 주소를 유지",
     "icon": "🚀",
     "version": "v1.6.11",
-    "webUrl": "https://nirc-shared-mu5aoczm.vercel.app",
+    "webUrl": "https://nirc-shared-mu5aoczm-lee-sun-woo-s-projects.vercel.app",
     "zipUrl": "https://github.com/leesunrain/nirc-shared-mu5aoczm/archive/refs/heads/main.zip",
     "tag": "공용 앱",
     "access": "admin",
     "hidden": false,
     "repoName": "nirc-shared-mu5aoczm",
     "appId": "oc_mu5aog61_h6eqagtvfq",
-    "updatedAt": "2026-11-19T10:07:07.245Z"
+    "updatedAt": "2026-11-19T10:07:12.448Z"
   }
 ]
