@@ -378,32 +378,6 @@
     "updatedAt": "2026-10-29T17:59:49.947Z"
   },
   {
-    "id": "shared-mvw0xghn-lq15w",
-    "name": "화목훈련 페이스",
-    "description": "화 VO2max 90%\n목 LT인터벌주",
-    "icon": "🏃",
-    "version": "v1",
-    "webUrl": "https://nirc-shared-mvw0x5oq.vercel.app",
-    "zipUrl": "https://github.com/leesunrain/nirc-shared-mvw0x5oq/archive/refs/heads/main.zip",
-    "tag": "공용 앱",
-    "access": "selected",
-    "hidden": false,
-    "repoName": "nirc-shared-mvw0x5oq",
-    "appId": "oc_mvw0x8ts_5gce0l4utv",
-    "updatedAt": "2026-10-31T06:34:13.190Z",
-    "allowedUsers": [
-      "legacy:이선우",
-      "legacy:김건욱",
-      "legacy:박수진",
-      "legacy:윤원진",
-      "legacy:고은",
-      "legacy:신민경",
-      "legacy:조수빈",
-      "legacy:이창환",
-      "legacy:박영윤"
-    ]
-  },
-  {
     "id": "shared-mvw1g386-fzz6d",
     "name": "27년 동마 스케줄 관리앱(풀준비 앱)",
     "description": "27년 동마 풀준비를 위한 앱",
@@ -564,5 +538,20 @@
     "repoName": "nirc-shared-mu5aoczm",
     "appId": "oc_mu5aog61_h6eqagtvfq",
     "updatedAt": "2026-11-19T10:07:12.448Z"
+  },
+  {
+    "id": "shared-mvw0xghn-lq15w",
+    "name": "화목훈련 페이스",
+    "description": "화 VO2max 90%\n목 LT인터벌주",
+    "icon": "🏃",
+    "version": "v2",
+    "webUrl": "https://nirc-shared-mvw0x5oq.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mvw0x5oq/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "selected",
+    "hidden": false,
+    "repoName": "nirc-shared-mvw0x5oq",
+    "appId": "oc_mvw0x8ts_5gce0l4utv",
+    "updatedAt": "2026-11-19T10:07:55.058Z"
   }
 ]
