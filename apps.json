@@ -544,7 +544,7 @@
     "name": "화목훈련 페이스",
     "description": "화 VO2max 90%\n목 LT인터벌주",
     "icon": "🏃",
-    "version": "v2",
+    "version": "v3",
     "webUrl": "https://nirc-shared-mvw0x5oq.vercel.app",
     "zipUrl": "https://github.com/leesunrain/nirc-shared-mvw0x5oq/archive/refs/heads/main.zip",
     "tag": "공용 앱",
@@ -552,6 +552,6 @@
     "hidden": false,
     "repoName": "nirc-shared-mvw0x5oq",
     "appId": "oc_mvw0x8ts_5gce0l4utv",
-    "updatedAt": "2026-11-19T10:07:55.058Z"
+    "updatedAt": "2026-11-19T10:31:09.630Z"
   }
 ]
