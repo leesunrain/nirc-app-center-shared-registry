@@ -425,21 +425,6 @@
     ]
   },
   {
-    "id": "shared-mu5aowhz-so0lc",
-    "name": "원클릭 앱 배포기",
-    "description": "수정 ZIP을 기존 Vercel 프로젝트에 안전하게 업데이트해 주소를 유지",
-    "icon": "🚀",
-    "version": "v1.6.10",
-    "webUrl": "https://nirc-shared-mu5aoczm-lee-sun-woo-s-projects.vercel.app",
-    "zipUrl": "https://github.com/leesunrain/nirc-shared-mu5aoczm/archive/refs/heads/main.zip",
-    "tag": "공용 앱",
-    "access": "admin",
-    "hidden": false,
-    "repoName": "nirc-shared-mu5aoczm",
-    "appId": "oc_mu5aog61_h6eqagtvfq",
-    "updatedAt": "2026-10-31T10:32:43.642Z"
-  },
-  {
     "id": "shared-mvmor82k-v67du",
     "name": "27년 동아마라톤 훈련 관리앱",
     "description": "27년 동마준비",
@@ -564,5 +549,20 @@
     "repoName": "nirc-shared-mwb6zz1j",
     "appId": "oc_mwb70385_z16iejrzpc",
     "updatedAt": "2026-11-10T21:19:03.393Z"
+  },
+  {
+    "id": "shared-mu5aowhz-so0lc",
+    "name": "원클릭 앱 배포기",
+    "description": "수정 ZIP을 기존 Vercel 프로젝트에 안전하게 업데이트해 주소를 유지",
+    "icon": "🚀",
+    "version": "v1.6.11",
+    "webUrl": "https://nirc-shared-mu5aoczm.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mu5aoczm/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "admin",
+    "hidden": false,
+    "repoName": "nirc-shared-mu5aoczm",
+    "appId": "oc_mu5aog61_h6eqagtvfq",
+    "updatedAt": "2026-11-19T10:06:57.476Z"
   }
 ]
