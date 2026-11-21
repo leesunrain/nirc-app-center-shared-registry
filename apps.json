@@ -553,5 +553,20 @@
     "repoName": "nirc-shared-mu5aoczm",
     "appId": "oc_mu5aog61_h6eqagtvfq",
     "updatedAt": "2026-11-21T08:19:38.643Z"
+  },
+  {
+    "id": "shared-mwq5lqqc-4ver8",
+    "name": "풀 테이퍼링",
+    "description": "풀대회 직전 테이퍼링양 계산앱",
+    "icon": "🏃",
+    "version": "v1",
+    "webUrl": "https://nirc-shared-mwq5le8z.vercel.app",
+    "zipUrl": "https://github.com/leesunrain/nirc-shared-mwq5le8z/archive/refs/heads/main.zip",
+    "tag": "공용 앱",
+    "access": "public",
+    "hidden": false,
+    "repoName": "nirc-shared-mwq5le8z",
+    "appId": "oc_mwq5ljki_8gggdb27ky",
+    "updatedAt": "2026-11-21T08:36:17.941Z"
   }
 ]
